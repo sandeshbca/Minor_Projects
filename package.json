@@ -1,5 +1,5 @@
 {
 "scripts": {
-  "build": "tailwindcss -i ./src/input.css -o ./dist/style.css"
+  "dev": "tailwindcss -i ./src/input.css -o ./dist/style.css"
 }
 }
